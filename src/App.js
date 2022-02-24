@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import "weather-icons/css/weather-icons.css";
 import Weather from './app_component/weather.component';
 import Form from './app_component/form.component';
-import axios from 'axios';
+//import axios from 'axios';
 //api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
  const API_key = "3e911f6f43ce76222d96920333baffb4";
 
