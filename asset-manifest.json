@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/weatherapp_task/static/css/main.a84a9156.css",
+    "main.css": "/weatherapp_task/static/css/main.76257f7e.css",
     "main.js": "/weatherapp_task/static/js/main.70ade381.js",
     "static/js/787.c9a50e48.chunk.js": "/weatherapp_task/static/js/787.c9a50e48.chunk.js",
+    "static/media/blur-background-1187974.jpg": "/weatherapp_task/static/media/blur-background-1187974.be6712a4f65733d424d7.jpg",
     "static/media/logo.svg": "/weatherapp_task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/weatherapp_task/index.html",
-    "main.a84a9156.css.map": "/weatherapp_task/static/css/main.a84a9156.css.map",
+    "main.76257f7e.css.map": "/weatherapp_task/static/css/main.76257f7e.css.map",
     "main.70ade381.js.map": "/weatherapp_task/static/js/main.70ade381.js.map",
     "787.c9a50e48.chunk.js.map": "/weatherapp_task/static/js/787.c9a50e48.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a84a9156.css",
+    "static/css/main.76257f7e.css",
     "static/js/main.70ade381.js"
   ]
 }
